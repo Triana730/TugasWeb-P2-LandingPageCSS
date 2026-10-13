@@ -13,3 +13,16 @@ dibuat untuk mata kuliah Pemrograman Web, UNIMED.
 - Lolos validasi W3C (HTML dan CSS)
 
 ## Struktur Folder
+- `index.html` — halaman utama
+- `style.css` — styling halaman
+- file gambar (`.jpg` / `.jpeg`) — aset gambar
+
+## Cara Menjalankan
+1. Clone repo ini
+2. Buka file `index.html` di browser
+
+## Screenshot
+![Hasil validasi W3C](screenshot-w3c.png)
+
+## Pembuat
+Selvira
